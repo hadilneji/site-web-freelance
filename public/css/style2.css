@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+    background-color: cadetblue;
+    height: 7em;
+    border-bottom: solid;
+    padding-block-start: 1.4em;
+}
+.img-prof{
+    margin-block-start: -6em;
+    border: solid;
+    border-radius: 12px;
+    width: 10em;
+    margin-inline-start: 3em;
+}
+.job{
+    margin-inline-start: 14em;
+    margin-block-start: -3.6em;
+}
+
